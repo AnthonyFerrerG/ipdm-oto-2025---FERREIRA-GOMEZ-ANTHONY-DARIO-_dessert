@@ -25,12 +25,6 @@ Ingresos totales
 
 Revisa Logcat en Android Studio para ver cuándo se llaman los diferentes métodos del ciclo de vida de la actividad.
 
-🏗️ Estructura del proyecto
-MainActivity.kt: Contiene la lógica principal y los logs del ciclo de vida.
-
-DessertClickerApp(): Composable que muestra la interfaz y gestiona los estados de la app.
-
-Recursos: Incluye imágenes y temas para la interfaz.
 
 🔍 ¿Qué puedes aprender?
 Cómo se gestionan los estados y variables en una app Compose.
@@ -41,12 +35,6 @@ Cómo usar Logcat para depurar y entender el comportamiento de tu app.
 
 Cómo manejar eventos de usuario y actualizar la interfaz en tiempo real.
 
-📦 Instalación
-Clona este repositorio:
-
-bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-Ábrelo en Android Studio.
 
 Ejecuta la app en un emulador o dispositivo físico.
 
@@ -54,18 +42,4 @@ Ejecuta la app en un emulador o dispositivo físico.
 Este proyecto está basado en el codelab oficial de Google:
 https://github.com/google-developer-training/basic-android-kotlin-compose-training-dessert-clicker
 
-📚 Recursos adicionales
-Documentación oficial de Android: Ciclo de vida de la actividad
 
-Curso básico de Android con Kotlin y Jetpack Compose
-
-¡Diviértete aprendiendo y programando! 🚀
-
-¿Quieres agregar instrucciones específicas, imágenes o algún detalle extra? ¡Dímelo y lo personalizo aún más!
-
-Preguntas relacionadas
-Qué estructura básica debería tener un README para este proyecto en Kotlin Compose
-Qué información clave debo incluir para que otros entiendan rápidamente el juego
-Cómo puedo explicar de forma sencilla las adaptaciones y mejoras realizadas
-Qué ejemplos o instrucciones prácticas puedo agregar para facilitar la comprensión del código
-De qué manera puedo destacar las funcionalidades principales y los objetivos del juego en el README
